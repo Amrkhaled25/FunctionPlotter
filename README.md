@@ -42,5 +42,5 @@ pytest
 ## Wrong examples snapshots
 
 ![invalid_input](https://github.com/Amrkhaled25/FunctionPlotter/assets/116092948/96689f0e-bc2b-4688-bc96-ef2e69a09706)
-![inva![invalid_input3](https://github.com/Amrkhaled25/FunctionPlotter/assets/116092948/9a3ed318-dfe1-4dc9-a885-0d42a077d338)
+![invalid_input2](https://github.com/Amrkhaled25/FunctionPlotter/assets/116092948/4d3fa32e-8afe-4347-bebf-890c302bbe50)
 ![invalid_input3](https://github.com/Amrkhaled25/FunctionPlotter/assets/116092948/286e6ae5-f328-4146-80fb-429751c2a2c5)
