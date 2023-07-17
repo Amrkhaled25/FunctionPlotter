@@ -35,8 +35,8 @@ pytest
 3. The tests will be executed, and you'll see the test results in the terminal.
 
 ## Working examples snapshots
-![valid_input3](https://github.com/Amrkhaled25/FunctionPlotter/assets/116092948/69843b17-2263-4bab-ae6f-3a20963d48a8)
-![valid_input](https://github.com/Amrkhaled25/FunctionPlotter/assets/116092948/b64f0577-faae-4a33-9477-3866153a275f)
+![valid_input3](https://github.com/Amrkhaled25/FunctionPlotter/snapshots/valid_input3)
+![valid_input](https://ibb.co/7t2cC0w)
 ![valid_input2](https://github.com/Amrkhaled25/FunctionPlotter/assets/116092948/6bbd4111-165d-4a5f-b3ae-5b9474c49059)
 
 ## Wrong examples snapshots
