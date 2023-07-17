@@ -35,12 +35,12 @@ pytest
 3. The tests will be executed, and you'll see the test results in the terminal.
 
 ## Working examples snapshots
-![valid_input3](https://github.com/Amrkhaled25/FunctionPlotter/snapshots/valid_input3)
-![valid_input](https://ibb.co/7t2cC0w)
-![valid_input2](https://github.com/Amrkhaled25/FunctionPlotter/assets/116092948/6bbd4111-165d-4a5f-b3ae-5b9474c49059)
+![valid_input3](https://github.com/Amrkhaled25/FunctionPlotter/assets/116092948/e8607855-347b-4c6a-b9df-009aa4aea2a9)
+![valid_input2](https://github.com/Amrkhaled25/FunctionPlotter/assets/116092948/fe8329ed-b543-49c4-82e5-fd826b0b29da)
+![valid_input](https://github.com/Amrkhaled25/FunctionPlotter/assets/116092948/7f469a82-4afb-41b1-adcc-f49844d5e268)
 
 ## Wrong examples snapshots
+![invalid_input](https://github.com/Amrkhaled25/FunctionPlotter/assets/116092948/72af7e37-c374-4a9f-8ae8-f473c26ad72d)
+![invalid_input2](https://github.com/Amrkhaled25/FunctionPlotter/assets/116092948/d289b28e-3c8f-4efa-82d9-d4cfaf30a9dc)
+![invalid_input3](https://github.com/Amrkhaled25/FunctionPlotter/assets/116092948/715bc27d-2f79-4ef0-8649-c15e75f27e5f)
 
-![invalid_input](https://github.com/Amrkhaled25/FunctionPlotter/assets/116092948/96689f0e-bc2b-4688-bc96-ef2e69a09706)
-![invalid_input2](https://github.com/Amrkhaled25/FunctionPlotter/assets/116092948/4d3fa32e-8afe-4347-bebf-890c302bbe50)
-![invalid_input3](https://github.com/Amrkhaled25/FunctionPlotter/assets/116092948/286e6ae5-f328-4146-80fb-429751c2a2c5)
